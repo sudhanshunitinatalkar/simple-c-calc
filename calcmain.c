@@ -21,4 +21,5 @@ int main()
         default:printf("invalid option");
     }
     getch();
+    return 0;
 }
