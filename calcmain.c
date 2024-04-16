@@ -21,6 +21,6 @@ int main()
         default:printf("invalid option");
     }
     
-    getch();
+    getint();
     return 0;
 }
