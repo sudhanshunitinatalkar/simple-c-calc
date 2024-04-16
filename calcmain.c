@@ -20,6 +20,7 @@ int main()
         break;
         default:printf("invalid option");
     }
+    
     getch();
     return 0;
 }
