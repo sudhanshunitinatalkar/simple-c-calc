@@ -10,17 +10,17 @@ int main()
     scanf("%d",&op);
     switch(op)
     {
-        case 1:printf("%d",num1+num2);
+        case 1:printf("your calculation is:%d",num1+num2);
         break;
-        case 2:printf("%d",num1-num2);
+        case 2:printf("your calculation is:%d",num1-num2);
         break;
-        case 3:printf("%d",num1*num2);
+        case 3:printf("your calculation is:%d",num1*num2);
         break;
-        case 4:printf("%d",num1/num2);
+        case 4:printf("your calculation is:%d",num1/num2);
         break;
         default:printf("invalid option");
     }
     
-    getint();
+    getch();
     return 0;
 }
