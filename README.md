@@ -1,1 +1,1 @@
-this is a simple integer calculator written in c
+this is a simple integer calculator written in c language

@@ -18,7 +18,7 @@ int main()
         break;
         case 4:printf("your calculation is:%d",num1/num2);
         break;
-        default:printf("invalid option");
+        default:printf("invalid option");//rrr
     }
     
     getch();
